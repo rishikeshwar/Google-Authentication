@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Ruby on Rails application which uses Google APIs to simulate a simple Google Authentication.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
+* Prerequirements 
+  MySQL
+  Rails
+  Ruby
+  
+* Simply Download or Clone it. 
 
 * Database creation
+  change database.yml to config according to your needs then
+  $ bundle install
+  $ rake db:create
+  $ rake db:migrate
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
