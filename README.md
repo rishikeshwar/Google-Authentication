@@ -4,7 +4,7 @@ This is a simple Ruby on Rails application which uses Google APIs to simulate a 
 
 Things you may want to cover:
 
-* Prerequirements 
+* Prerequirements <br>
   MySQL
   Rails
   Ruby
